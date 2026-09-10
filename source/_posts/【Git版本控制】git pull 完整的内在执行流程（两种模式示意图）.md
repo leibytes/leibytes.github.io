@@ -1,5 +1,5 @@
 ---
-title: '【git】git pull 完整的内在执行流程（两种模式示意图）'
+title: '【Git版本控制】git pull 完整的内在执行流程（两种模式示意图）'
 date: 2026-07-22 06:14:00
 categories:
   - Git版本控制

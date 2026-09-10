@@ -1,8 +1,8 @@
 ---
-title: '【实用工具】用 SwitchHosts 解决 GitHub 国内访问不稳定问题'
+title: '【Git版本控制】用 SwitchHosts 解决 GitHub 国内访问不稳定问题'
 date: 2026-09-10 12:00:00
 categories:
-  - 实用工具
+  - Git版本控制
 ---
 
 # 用 SwitchHosts 解决 GitHub 国内访问不稳定问题
@@ -161,4 +161,3 @@ https://hosts.gitcdn.top/hosts.txt
 ---
 
 通过 SwitchHosts + 远程订阅，GitHub 访问问题基本一劳永逸了。以后 GitHub 的 IP 变了，软件自动更新，不用再手动查 IP、改 hosts、清 DNS。
-#（注：内容由AI生成）
