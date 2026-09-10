@@ -1,0 +1,22 @@
+# 主页副标题
+subtitle: 记录成长
+
+# 头像（把头像图放进 source/images/，如 avatar.png）
+avatar:
+  img: /images/avatar.png
+  effect: true            # 鼠标悬停旋转
+
+# 菜单（格式：菜单名: 路径 || 图标，必须是这种字符串格式）
+menu:
+  首页: / || fas fa-home
+  分类: /categories/ || fas fa-folder-open
+  归档: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+
+# 文章页/首页显示分类
+post_meta:
+  page:
+    date_type: created
+    date_format: date
+    categories: true
+    tags: false
