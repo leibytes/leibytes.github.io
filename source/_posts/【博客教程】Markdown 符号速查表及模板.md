@@ -1,8 +1,8 @@
 ---
-title: '【博客园使用技巧】Markdown 符号速查表及模板'
+title: '【博客教程】Markdown 符号速查表及模板'
 date: 2026-04-17 06:44:00
 categories:
-  - 博客园使用技巧
+  - 博客教程
 ------
 
 # Markdown 符号速查表及模板
