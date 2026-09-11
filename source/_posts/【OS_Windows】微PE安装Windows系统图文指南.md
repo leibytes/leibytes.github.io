@@ -29,7 +29,7 @@ categories:
 ---
 ## 第二章 制作微PE启动盘
 制作微PE启动盘非常简单，全程在 Windows 桌面环境下操作，约 3~5 分钟即可完成。
-![图2-1 制作PE启动盘五步流程](https://aka.doubaocdn.com/s/gCYUbJBWUK)
+![图2-1 制作PE启动盘五步流程](/images/OS_Windows/微PE安装Windows系统图文指南_004.png)
 ### 2.1 详细步骤
 1. \*\*下载微PE工具箱\*\*：打开官网 www.wepe.com.cn，点击"下载"，选择最新版（建议64位），下载得到单个 exe 文件（如 WePE\_64\_V2.3.exe）。该文件无需安装、无捆绑、无广告。
 2. \*\*插入U盘并备份\*\*：将空白U盘（建议8GB以上）插入电脑 USB 接口，打开"此电脑"确认U盘被识别。若U盘里有重要数据，请先备份到其他地方，因为制作过程会格式化U盘。
@@ -70,7 +70,7 @@ categories:
 ---
 ## 第四章 启动方式与系统盘分区类型的对应关系
 \*\*这一步非常关键！\*\* 启动方式（UEFI / Legacy）与硬盘分区表类型（GPT / MBR）必须一一对应，否则装完系统可能无法启动。
-![图4-1 UEFI/GPT 与 Legacy/MBR 对应关系](https://aka.doubaocdn.com/s/Rp655qfVfK)
+![图4-1 UEFI/GPT 与 Legacy/MBR 对应关系](/images/OS_Windows/微PE安装Windows系统图文指南_005.png)
 ### 4.1 两种启动方式与分区类型
 | 启动方式 | 对应分区表 | 适用电脑 | 特点 |
 |---|---|---|---|
@@ -87,7 +87,7 @@ categories:
 ---
 ## 第五章 安装系统：两种方法详解
 进入PE后，即可开始安装系统。微PE官方提供两种主流方法：原生安装法（最正统）与安装器法（最灵活）。
-![图5-1 原生安装 vs 安装器方法对比](https://aka.doubaocdn.com/s/HuCx7GDqPg)
+![图5-1 原生安装 vs 安装器方法对比](/images/OS_Windows/微PE安装Windows系统图文指南_006.png)
 ### 5.1 两种方法对比
 | 对比项 | 原生安装法（Setup.exe） | 安装器法（WinNTSetup） |
 |---|---|---|
