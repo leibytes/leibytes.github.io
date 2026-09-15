@@ -1,7 +1,7 @@
 ---
 title: '【博客教程】博客园的随笔批量导出并转换为Markdown文件'
 date: 2026-09-14 07:23:00
-link: https://www.cnblogs.com/leiblog/p/22966707.html
+cnblogs_link: https://www.cnblogs.com/leiblog/p/22966707.html
 categories:
   - 博客教程
 ---
