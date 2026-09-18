@@ -20,3 +20,7 @@ post_meta:
     date_format: date
     categories: true
     tags: false
+
+post_copyright:
+  enable: true
+  decode: true   # 改为 true：文章链接中的中文解码显示    
