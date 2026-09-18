@@ -1,11 +1,11 @@
 ---
-title: '【博客教程】Hexo + GitHub Pages 搭建个人博客完整教程'
+title: '【博客教程】Hexo+GitHub搭建个人博客完整教程'
 date: 2026-09-10 16:00:00
 categories:
   - 博客教程
 ---
 
-# Hexo + GitHub Pages 搭建个人博客完整教程
+# Hexo+GitHub搭建个人博客完整教程
 
 > Windows 环境实测通过，从零开始搭建个人技术博客，免费托管在 GitHub。
 

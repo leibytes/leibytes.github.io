@@ -1,11 +1,11 @@
 ---
-title: '【博客教程】Hexo + 双仓部署 GitHub + Gitee（共用一套配置）'
+title: '【【博客教程】Hexo+双仓库发布博客(GitHub+Gitee)'
 date: 2026-09-10 18:30:00
 categories:
   - 博客教程
 ---
 
-# Hexo + Butterfly 双仓部署 GitHub + Gitee（共用一套配置）
+# Hexo + Butterfly 双仓发布 GitHub + Gitee（共用一套配置）
 
 > GitHub 国内访问不稳定，Gitee 国内快。最优方案：**两个平台建同名仓库，一套 `_config.yml` 同时推双仓**，一条 `hexo d` 同步部署。
 
