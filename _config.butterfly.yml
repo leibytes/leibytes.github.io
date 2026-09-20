@@ -35,5 +35,7 @@ post_copyright:
 search:
   use: local_search        # 总开关：选用本地搜索（不填则不显示搜索按钮）
   placeholder: 搜索文章...  # 搜索框提示文字，可选  
+local_search:
+  preload: true                # 页面打开时预加载索引，体积效率，不设默认 false  
 
   
