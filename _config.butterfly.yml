@@ -1,5 +1,11 @@
 # 主页副标题
-subtitle: 记录成长
+subtitle:
+  enable: true        # 必须开
+  effect: true        # 打字机效果
+  sub:                # 副标题内容，可写多行轮播
+    - 记录成长，分享技术
+    - 持续学习，持续输出
+
 
 # 头像（把头像图放进 source/images/，如 avatar.png）
 avatar:
@@ -23,4 +29,11 @@ post_meta:
 
 post_copyright:
   enable: true
-  decode: true   # 改为 true：文章链接中的中文解码显示    
+  decode: true   # 改为 true：链接的中文解码显示    
+
+# 顶部导航栏展示搜索框
+search:
+  use: local_search        # 总开关：选用本地搜索（不填则不显示搜索按钮）
+  placeholder: 搜索文章...  # 搜索框提示文字，可选  
+
+  

@@ -107,3 +107,9 @@ theme: butterfly
 #  type: git
 #  repo: https://github.com/leibytes/leibytes.github.io.git
 #  branch: main
+
+# 本地搜索
+search:
+  path: search.xml
+  field: post    # post=只搜文章；all=文章+页面
+  content: true
