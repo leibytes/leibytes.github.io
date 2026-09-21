@@ -1,5 +1,5 @@
 ---
-title: '【【博客教程】Hexo+双仓库发布博客(GitHub+Gitee)'
+title: '【博客教程】Hexo+双仓库发布博客(GitHub+Gitee)'
 date: 2026-09-10 18:30:00
 categories:
   - 博客教程
