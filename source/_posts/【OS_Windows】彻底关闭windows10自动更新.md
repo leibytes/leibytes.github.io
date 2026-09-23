@@ -40,5 +40,5 @@ Win+R调出运行，再输入gpedit.msc，在其目录下找到计算机配置�
 ![](/images/OS_Windows/彻底关闭windows10自动更新_003.png)
 
 **总结：**虽然windows自动更新有很多烦人的地方，但还是建议大家隔一段时间手动更新一下，不然系统的重大漏洞可能会导致如上次“wannacry”比特币勒索病毒之类令人欲哭无泪的时间，另外，禁用系统更新还将导致微软商店无法使用哦~禁用之前也请大家三思
-
+**可下载脚本以管理员身份运行一步到位：**[windows禁用和启用系统更新](https://www.alipan.com/s/2aqXDFbSNcK)
 参考博文：[彻底关闭windows自动更新](https://baijiahao.baidu.com/s?id=1629413738184879892&wfr=spider&for=pc)
