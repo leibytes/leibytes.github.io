@@ -6,12 +6,22 @@ subtitle:
     - 记录成长，分享技术
     - 持续学习，持续输出
 
-
 # 头像（把头像图放进 source/images/，如 avatar.png）
 avatar:
   img: /images/avatar.png
   effect: true            # 鼠标悬停旋转
 
+social:
+  GitHub: https://github.com/leibytes || fab fa-github
+  博客园: https://www.cnblogs.com/leiblog || fas fa-pencil-alt
+  
+# 菜单栏展示搜索框
+search:
+  use: local_search        # 总开关：选用本地搜索（不填则不显示搜索按钮）
+  placeholder: 搜索文章...  # 搜索框提示文字，可选  
+local_search:
+  preload: true             # 页面打开时预加载索引，体积效率，不设默认 false
+  
 # 菜单（格式：菜单名: 路径 || 图标，必须是这种字符串格式）
 menu:
   首页: / || fas fa-home
@@ -29,13 +39,6 @@ post_meta:
 
 post_copyright:
   enable: true
-  decode: true   # 改为 true：链接的中文解码显示    
-
-# 顶部导航栏展示搜索框
-search:
-  use: local_search        # 总开关：选用本地搜索（不填则不显示搜索按钮）
-  placeholder: 搜索文章...  # 搜索框提示文字，可选  
-local_search:
-  preload: true                # 页面打开时预加载索引，体积效率，不设默认 false  
+  decode: true   # 改为 true：链接的中文解码显示     
 
   
