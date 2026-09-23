@@ -11,9 +11,21 @@ avatar:
   img: /images/avatar.png
   effect: true            # 鼠标悬停旋转
 
-social:
-  GitHub: https://github.com/leibytes || fab fa-github
-  博客园: https://www.cnblogs.com/leiblog || fas fa-pencil-alt
+# 社交卡片
+aside:
+  card_author:
+    enable: true
+    description:
+    button:
+      enable: true
+      icon: fas fa-pencil       # 按钮上的图标
+      text: 博客园              # 按钮文字
+      link: https://www.cnblogs.com/leiblog   # ← 点按钮跳去哪，改这里
+
+social:  
+#  fas fa-pencil: https://www.cnblogs.com/leiblog || 博客园 || '#4a7dbe'
+  fab fa-github: https://github.com/leibytes || Github || '#24292e'
+
   
 # 菜单栏展示搜索框
 search:
