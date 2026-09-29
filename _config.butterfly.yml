@@ -57,7 +57,7 @@ toc:
   post: true
   page: false
   number: false     # 关掉自动编号，目录只显示标题原文
-  expand: false
+  expand: true
   style_simple: false
   scroll_percent: true
   decode: false  
